@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kolawura
+- 👋 Hi, I’m Adekola
 - 👀 I’m interested in Web Dev, Design, Dev-Ops, Machine Learning, ...
-- 🌱 I’m currently learning JavaScript && TypeScript, Reactjs(functional, but have an idea of class component),
+- 🌱 I’m currently learning JavaScript && TypeScript, Reactjs, NodeJs and DBM
 - 💞️ I’m looking to collaborate on anything Web Dev && Design. 
 - 📫 How to reach me... my email is iamadekoladavid@gmail.com
 
